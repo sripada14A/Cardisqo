@@ -76,10 +76,9 @@ Cardisure integrates wearable health monitoring, AI-based risk prediction, and r
 
 ### 👩‍💻 Team
 
-* **Tumpudi Sripada Akshaya** – Founder & App Developer
-* **Sahasra Varshini Gorripati** – Research & Content
-* **Madapathi Shwetanajali** – Presentation & Design
-
+* **Sripada Akshaya Tumpudi** – Founder , Web and Mopile app application development 
+* **Sahasra Varshini Gorripati** – Co-Founder , Hardware Technology development 
+  
 ---
 
 ### 🌍 Vision
